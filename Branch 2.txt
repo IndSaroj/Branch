@@ -1,3 +1,7 @@
 What is the use of Branch?
 
+why we use this?
+
 Since we dont have access to main file while working on live project as such we create a replica of main branch and then we do all the changes in there and we hit PR request for approval. 
+
+i still have some doubt?
