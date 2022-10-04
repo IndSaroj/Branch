@@ -1,1 +1,1 @@
-What is branch?
+What is branch? Branch is the replica of main branch where we can add or make new changes in existing command. 
